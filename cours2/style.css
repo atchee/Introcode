@@ -1,0 +1,40 @@
+/* style.css */
+body{
+  background: #fff;
+  color: green;
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+}
+nav{
+  font-size: 1em;
+  font-family: fantasy;
+}
+nav:hover{
+  font-size: 1em;
+  font-family: fantasy;
+  background: #F79F81;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 10px;
+}
+#title{
+  color: purple;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family: Courier;
+  color: pink;
+  font-weight: lighter;
+  font-size: 8px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
