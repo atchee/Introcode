@@ -1,27 +1,19 @@
 /* style.css */
 
-.feature,.defi {border: 1px solid #F2F2F2;
-  margin: 15px;
-  padding: 15px 0;
-  text-align: center;
-  width: 400px;
- background: #748BA7;
+body{
+  background: #fff;
+  color: #000;
+  font-size: 16px;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin:0;
 }
 
-#apropos{
- margin: 0 auto;
- width: 80%;
- display:flex;
- flex-wrap: wrap;
- justify-content: center;
-}
+/* Mise en forme de la barre de navigation */
 
-#defis{
- margin: 0 auto;
- width: 80%;
- display:flex;
- flex-wrap: wrap;
- justify-content: center;
+nav{
+  display:inline;
+  font-size: 1em;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 nav li {
@@ -34,19 +26,11 @@ nav ul {
   margin-top: 25px;
 }
 
-body{
-  background: #fff;
-  color: #000;
-  font-size: 16px;
-  font-family: 'Source Sans Pro', sans-serif;
-  margin:0;
+nav a {
+  color: #ffffff;
 }
 
-nav{
-  display:inline;
-  font-size: 1em;
-  font-family: 'Source Sans Pro', sans-serif;
-}
+/* Mise en forme textes*/
 
 h1{
   font-family: 'Roboto', sans-serif;
@@ -84,8 +68,10 @@ a:hover {
 }
 
 /* Mis en forme de la baseline */
+
 #baseline{
   background-color: #051B38;
+   background-image: url(backpic.jpg);
   text-align: center;
   background-size: cover;
   padding: 150px;
@@ -119,4 +105,28 @@ a:hover {
 
 #welcome h4{
  font-size: 50px;
+}
+
+.feature,.defi {border: 1px solid #F2F2F2;
+  margin: 15px;
+  padding: 15px 0;
+  text-align: center;
+  width: 400px;
+ background: #748BA7;
+}
+
+#apropos{
+ margin: 0 auto;
+ width: 80%;
+ display:flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
+#defis{
+ margin: 0 auto;
+ width: 80%;
+ display:flex;
+ flex-wrap: wrap;
+ justify-content: center;
 }
