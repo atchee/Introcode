@@ -16,6 +16,14 @@
  justify-content: center;
 }
 
+#defis{
+ margin: 0 auto;
+ width: 80%;
+ display:flex;
+ flex-wrap: wrap;
+ justify-content: center;
+}
+
 nav li {
   margin: 10px;
   display:inline;
