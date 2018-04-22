@@ -39,7 +39,7 @@ function showChallenge(liste) {
   var data="";
 
   for ( var i=0; i < liste.length; i++) {
-    data+="<div class='defi'>";
+    data+='<div class="defi">';
     var challenge=liste[i];
 
     data+='<h2>'+challenge.nom+'</h2>';
