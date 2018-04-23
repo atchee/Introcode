@@ -67,6 +67,20 @@ a:hover {
  margin-left: 50px;
 }
 
+.social img {
+ width: 25px;
+}
+
+.social {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.social a:hover {
+  border-bottom: none;
+}
+
 /* Mis en forme de la baseline */
 
 #baseline{
@@ -135,4 +149,11 @@ a:hover {
  display:flex;
  flex-wrap: wrap;
  justify-content: center;
+}
+
+/* Mise en forme footer*/
+
+#footer{
+    display: block;
+    color: grey;
 }

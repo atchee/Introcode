@@ -4,14 +4,14 @@
     "nom":"Raw eggs Challenge",
     "category":"nourriture",
     "description" :"Faites le plein de protéines",
-    "youtube" : "https://www.youtube.com/watch?v=sXmETgPPgvo"
+    "youtube" : "https://www.youtube.com/embed/sXmETgPPgvo"
   },
    {
     "id":2,
-    "nom":"Cinnamon  Challenge",
+    "nom":"Ghost Pepper Challenge",
     "category":"nourriture",
-    "description" :"Manger une cuillere de cannelle",
-    "youtube" :"https://www.youtube.com/embed/iuOu-ylTJ1o"
+    "description" :"Chaud devant!",
+    "youtube" :"https://www.youtube.com/embed/8dFMCf8zi5s"
 
   },
    {
@@ -33,7 +33,7 @@
     "nom":"Chicken Nuggets Challenge",
     "category":"nourriture",
     "description" :"Montrez votre amour pour le poulet!",
-    "youtube" :"https://www.youtube.com/watch?v=K1CoaqlzSXg"
+    "youtube" :"https://www.youtube.com/embed/K1CoaqlzSXg"
   }
   ,{
     "id":4,

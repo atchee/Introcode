@@ -21,7 +21,7 @@ $("iframe").addClass('iframe');
 
 function loadChallenges() {
   $.ajax(
-        {url : 'https://api.myjson.com/bins/u2k4z',
+        {url : 'https://api.myjson.com/bins/1cqqfv',
         type: 'GET',
         dataType: 'json'}
   )
