@@ -70,8 +70,8 @@ a:hover {
 /* Mis en forme de la baseline */
 
 #baseline{
-  background-color: #051B38;
-   background-image: url(backpic.jpg);
+  background-color: #edf5e1;
+  background-image: url(backpic.jpg);
   text-align: center;
   background-size: cover;
   padding: 150px;
@@ -97,22 +97,28 @@ a:hover {
 }
 
 #welcome{
-  background-color: #41A3C0;
+  background-color: #edf5e1;
+  background-image: url(backpic.jpg);
   text-align: center;
-  padding: 50px;
+  background-size: cover;
+  padding: 150px;
   color: white;
+  text-shadow: 1px 1px 5px black;
 }
 
 #welcome h4{
  font-size: 50px;
 }
 
+/* Mise en forme des défis  */
+
 .feature,.defi {border: 1px solid #F2F2F2;
   margin: 15px;
   padding: 15px 0;
   text-align: center;
   width: 400px;
- background: #748BA7;
+ background: #389583;
+ box-shadow: 1px 1px 1px #E3E3E3;
 }
 
 #apropos{
